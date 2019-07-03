@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# 不要将我们编译出的文件提交到Git
+/esm
+/lib
